@@ -1,5 +1,5 @@
 
-# AWS Cloud Resume Project
+# AWS EC2 Static Website Project
 
 ## Introduction
 This project aims to host a static website on AWS using services EC2 and Route 53. The website hosts my resume written in HTML and styled with CSS. 
