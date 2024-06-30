@@ -89,5 +89,6 @@ https://yourtechie.hashnode.dev/deploying-a-static-website-to-aws-ec2-with-nginx
 ## Live Website
 
 personal Domain Link: 
-www.nginx.muadmaalim.buzz
+www.nginx.muadmaalim.buzz  or
+www.muadmaalim.buzz
 
