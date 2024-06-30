@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.table-container {
+    border: 1px solid #000;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+}
+
+td:first-child {
+    font-weight: bold;
+    color: black;
+}
+
+td:nth-child(2) {
+    color: orange;
+}
+
+td:nth-child(2) a {
+    text-decoration: underline;
+    color: orange;
+}
